@@ -1,0 +1,6 @@
+value=input()
+
+#start writing your code from here
+new_string = (value.replace(" ", "")).replace(",","")
+
+print(new_string)
